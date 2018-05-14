@@ -1,1 +1,1 @@
-# Sinus-And-Cosinus-Simulation
+We wanted to practice a little bit of logic writing durring our window application learning in python so we've decided to make a simple Sinus and Cosinus simulation, nothing serious but we thought it looks neat so we uploaded it. Can you tell which one is the Sinus and which is the Cosinus? If you want to try the program or mess with the code, link is down below. Have fun. In the folder there is a .py file, run it and you are good to go!
